@@ -1,0 +1,11 @@
+.container {
+	margin: 0 auto;
+}
+#row_menu_content {
+	padding: 0;
+	margin: 0;
+}
+#menu_content {
+	background-color: gray;
+	border-style: solid;
+}
